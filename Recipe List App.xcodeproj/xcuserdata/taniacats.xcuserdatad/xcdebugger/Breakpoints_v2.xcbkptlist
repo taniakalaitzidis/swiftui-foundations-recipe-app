@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "050D0EFF-04CF-4F50-A1C6-6AC0C3181FC6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "867ED48E-8688-4C1E-91EF-352A75B1DED6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipe List App/Services/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getLocalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "867ED48E-8688-4C1E-91EF-352A75B1DED6 - b6526dcde421d014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Recipe_List_App.DataService.getLocalData() -&gt; Swift.Array&lt;Recipe_List_App.Recipe&gt;"
+                  moduleName = "Recipe List App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taniacats/Desktop/iOS/::Completed%20Projects/Recipe%20List%20App/Recipe%20List%20App/Services/DataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "867ED48E-8688-4C1E-91EF-352A75B1DED6 - b6526dcde421d014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Recipe_List_App.DataService.getLocalData() -&gt; Swift.Array&lt;Recipe_List_App.Recipe&gt;"
+                  moduleName = "Recipe List App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taniacats/Desktop/iOS/::Completed%20Projects/Recipe%20List%20App/Recipe%20List%20App/Services/DataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "867ED48E-8688-4C1E-91EF-352A75B1DED6 - b6526dcde421d014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Recipe_List_App.DataService.getLocalData() -&gt; Swift.Array&lt;Recipe_List_App.Recipe&gt;"
+                  moduleName = "Recipe List App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taniacats/Desktop/iOS/::Completed%20Projects/Recipe%20List%20App/Recipe%20List%20App/Services/DataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D3BDF7E-0632-4F54-8C5C-688845333DE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipe List App/Services/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getLocalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
