@@ -22,7 +22,19 @@ class Recipe: Identifiable, Decodable {
     var cookTime:String
     var totalTime:String
     var servings:Int
-    var ingredients:[String]
+    var highlights:[String]
+    var ingredients:[Ingredients]
     var directions:[String]
+    
+}
+
+class Ingredients: Identifiable, Decodable {
+    //remember, identifiable means it lets it works inside a swiftui List, and decodable lets us easily decode the json data.
+
+    var id:UUID?
+    var name:String
+    var num:Int?
+    var denom:Int?
+    var unit:String?
     
 }

@@ -26,8 +26,8 @@ struct RecipeDetailView: View {
                         .padding([.bottom, .top], 5)
                     
                     //for each loop of this foreach loop, its going to put that ingredient inside the variable "item"
-                    ForEach (recipe.ingredients, id:\.self) { item in
-                        Text("• " + item)
+                    ForEach (recipe.ingredients) { item in
+                        Text("• " + item.name)
                             .padding(.bottom, 3)
                     }
                 }
