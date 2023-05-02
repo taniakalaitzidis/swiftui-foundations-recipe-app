@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD9A56902A01A86500FE904F /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A568F2A01A86500FE904F /* RecipeFeaturedView.swift */; };
 		ADF0BCFC29E5A3DD0008A39E /* Recipe_List_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF0BCFB29E5A3DD0008A39E /* Recipe_List_App.swift */; };
 		ADF0BCFE29E5A3DD0008A39E /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF0BCFD29E5A3DD0008A39E /* RecipeListView.swift */; };
 		ADF0BD0029E5A3DE0008A39E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADF0BCFF29E5A3DE0008A39E /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD9A568F2A01A86500FE904F /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 		ADF0BCF829E5A3DD0008A39E /* Recipe List App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recipe List App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADF0BCFB29E5A3DD0008A39E /* Recipe_List_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe_List_App.swift; sourceTree = "<group>"; };
 		ADF0BCFD29E5A3DD0008A39E /* RecipeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListView.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				ADF0BCFD29E5A3DD0008A39E /* RecipeListView.swift */,
 				ADF0BD3229E5D8CF0008A39E /* RecipeDetailView.swift */,
 				ADF0BD9A29F060F10008A39E /* RecipeTabView.swift */,
+				AD9A568F2A01A86500FE904F /* RecipeFeaturedView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				ADF0BCFE29E5A3DD0008A39E /* RecipeListView.swift in Sources */,
 				ADF0BCFC29E5A3DD0008A39E /* Recipe_List_App.swift in Sources */,
 				ADF0BD1629E5B3040008A39E /* DataService.swift in Sources */,
+				AD9A56902A01A86500FE904F /* RecipeFeaturedView.swift in Sources */,
 				ADF0BD9B29F060F10008A39E /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

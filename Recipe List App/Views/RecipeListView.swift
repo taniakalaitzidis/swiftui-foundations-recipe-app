@@ -9,8 +9,10 @@ import SwiftUI
 
 struct RecipeListView: View {
     
+    @EnvironmentObject var model:RecipeModel
+    
     //Reference the view model. we have to wrap the var model in @observedobject in order for the data to flow from RecipeModel to the view. It means we are listening to this object for any published changes.
-    @ObservedObject var model = RecipeModel()
+    //@ObservedObject var model = RecipeModel()
     
     var body: some View {
         NavigationView {
